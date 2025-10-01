@@ -1,3 +1,1 @@
-# 🚀 SPL Token Minters Platforms
-
-ALL DOMAINS ON RENDER.COM STATIC SITES
+# 🚀 SPL Token Creators Platform
